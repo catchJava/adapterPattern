@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/gt/96y8tpps61l7v846y5x6_kp80000gn/T/AppTranslocation/E7E372D9-5BD8-4131-AFAC-BB608AE82747/d/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/gt/96y8tpps61l7v846y5x6_kp80000gn/T/AppTranslocation/4A0101D7-9CBA-42A9-8818-A5A63F2516B9/d/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/user/.m2/repository" />
   </component>
 </application>
