@@ -5,4 +5,11 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="LGU -&gt; TSP" />
+    <filter name="LGU">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
