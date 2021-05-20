@@ -10,8 +10,8 @@
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
