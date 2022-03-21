@@ -8,12 +8,12 @@
     <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.jsp</mask>
     <mask>*.ini</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.ftl</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
